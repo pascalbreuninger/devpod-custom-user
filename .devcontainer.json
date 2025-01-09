@@ -1,0 +1,5 @@
+{
+  "name": "My dev env",
+  "image": "ghcr.io/pascalbreuninger/devpod-custom-user",
+  "remoteUser": "dev"
+}
